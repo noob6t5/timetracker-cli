@@ -1,3 +1,16 @@
+## How to use
+```
+git clone https://github.com/noob6t5/timetracker-cli
+
+cd timetracker-cli
+
+python3 tracker.py start coding
+
+python3 tracker.py stop
+
+```
+## Todo will upd to rust with my previous Rust based CLI Todo tool : https://github.com/noob6t5/cli_todonotigram
+
 ## 🧠 Weekly Grind Time Breakdown
 
 ![Grind Chart](./grind_report.png)
