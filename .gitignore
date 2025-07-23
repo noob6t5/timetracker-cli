@@ -1,0 +1,7 @@
+*
+!.gitignore
+!tracker.py
+!grind_tracker.json
+!grind_report.png
+!grind_summary.md
+!README.md
